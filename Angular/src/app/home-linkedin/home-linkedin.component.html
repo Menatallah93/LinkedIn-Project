@@ -1,0 +1,434 @@
+<app-header></app-header>
+
+<main id="main" class="main">
+
+  <section class="section dashboard">
+    <div class="row">
+
+      <!-- Left side columns -->
+      <div class="col-lg-8">
+        <div class="row">
+          <!-- Create Post -->
+          <div class="col-12">
+            <div class="card d-flex">
+
+              <div class="card-body">
+
+                <img [src]="'https://localhost:7223/images/' + (CurrentUser.image)" alt="Profile"
+                  class="rounded-circle m-3" width="70px" height="70px">
+                <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
+                  class="btn btn-outline-dark rounded-4 m-2" style="width:35vw;height:6vh;" name="query">
+                  <span class="float-start">Start A Post</span>
+                </button>
+
+              </div>
+            </div>
+          </div>
+          <!-- End Reports -->
+          <!-- Button trigger modal -->
+
+
+          <!-- Modal -->
+          <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+
+
+            <div class="modal-dialog modal-lg">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <form [formGroup]="CreatePostForm" (ngSubmit)="CreatePost()">
+
+                  <div class="modal-body">
+                    <div class="m-1 d-flex">
+
+                      <img [src]="'https://localhost:7223/images/' + (CurrentUser.image)" alt="Profile"
+                        class="rounded-circle" width="70px" height="70px">
+                      <div class="m-2 lh-1 " style="font-size: 15px;">
+                        <h3 style="font-size: 20px; font-weight: bold;">
+                          {{UserName}}
+
+                        </h3>
+
+                        Post To Any One
+                      </div>
+                      <p class="lh-sm" style="margin-left: 90px;">
+                      </p>
+                    </div>
+                    <div>
+                      <div class="form-floating">
+                        <textarea class="form-control" formControlName="postContent" [(ngModel)]="Post.postContent"
+                          placeholder="Write A Post" style="color: black;font-size: large; height: 200px"></textarea>
+                      </div>
+                    </div>
+                    <div class="d-flex mt-3">
+                      <input class="mr-3" aria-label="File browser example" formControlName="image"
+                        [(ngModel)]="Post.file" type="file" id="image" (change)="onSelectFile($event)">
+                    </div>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-dark" data-bs-dismiss="modal">Cancel</button>
+                    <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">Share</button>
+                  </div>
+                </form>
+              </div>
+            </div>
+
+
+
+          </div>
+          <!-- End Line Chart -->
+
+
+          <div class="col-12" id="postsDiv" #postsDiv *ngFor="let Post of Posts; let i = index">
+            <div class="card recent-sales overflow-auto">
+              <div>
+
+                <!--Posts-->
+                <div class="card-body" style="margin-bottom: 30px;">
+
+                  <div class="d-flex m-2">
+
+                    <div class="m-1" (click)="showProfile(Post.userId)" style="cursor: pointer;">
+
+                      <img src="https://localhost:7223/images/{{Post.user.image}}" alt="Profile" class="rounded-circle"
+                        width="70px" height="70px">
+                    </div>
+                    <div class="m-3">
+                      <h4 style="font-weight: bold; font-size: 15px;">
+                        {{Post.user.fName}}
+                      </h4>
+                      <p style="font-size: 12px;">
+                        {{Post.user.job}}
+                        <br>
+                        {{Post.created}}
+                      </p>
+                    </div>
+
+                  </div>
+
+
+                  <div style="width: 100%; height: 70%;">
+                    <p style="font-size: 40px; margin-left: 20px;">{{Post.postContent}}</p>
+                    <img *ngIf="Post.file!=null" src="https://localhost:7223/postImages/{{Post.file}}" alt="Profile"
+                      width="100%" height="50%">
+                  </div>
+
+                  <hr class="mt-3">
+                  <div class="btn-group" role="group" aria-label="Basic outlined example">
+                    <a type="button" id="likepost{{Post.id}}" class="btn btn-outline-primary btn-md"
+                      (click)="AddLike(Post.id)">
+                      <i id="Likeicon" class="fa-regular fa-thumbs-up"></i>
+                      {{Post.like}} Like</a>
+                    <a type="button" class="btn btn-outline-primary btn-md" (click)="showComments(Post)"><i
+                        class="fa-solid fa-comment"></i> Comment</a>
+                    <a type="button" class="btn btn-outline-primary btn-md" (click)="SharedPost(Post)"><i
+                        class="fa-sharp fa-share"></i> Share</a>
+                  </div>
+
+
+                  <div [id]="Post.id" *ngIf="Post.showComment">
+                    <div class="d-flex m-2">
+
+                      <div class="mt-3">
+                        <img [src]="'https://localhost:7223/images/' + (CurrentUser.image)" alt="Profile"
+                          class="rounded-circle" width="60px" height="60px">
+                      </div>
+
+                      <div class="m-3">
+                        <form [formGroup]="CreateComment" (ngSubmit)="CreateCommentFunc(Post.id)">
+
+                          <input class="m-1" [id]="Post.id" type="text" formControlName="commentContent"
+                            [(ngModel)]="Comment.commentContent" class="rounded-4 "
+                            style="width:30vw;height:6vh; padding-left:15px;font-size: 15px;"
+                            placeholder="Add A Comment" name="query" />
+
+                          <button type="submit" class="btn btn-primary mb-2" style="margin-left: 10px; ">Add
+                            Comment</button>
+                        </form>
+
+                      </div>
+
+                    </div>
+
+                    <div id="CreateCommentSignalR" *ngIf="Post.id==PostID">
+
+                    </div>
+
+                    <div *ngFor="let Comment of Comments " class="m-3">
+
+                      <div *ngIf="Post.id==Comment.postId">
+                        <div class="d-flex">
+
+                          <div class="m-2">
+
+                            <img [src]="'https://localhost:7223/images/' + (Comment.user.image)" alt="Profile"
+                              class="rounded-circle" width="50px" height="50px">
+                          </div>
+
+                          <div class="m-3 lh-2"
+                            style="padding-top: 10px; background-color: lightgrey; border-radius: 5px 20px 20px 15px; width: 50vw; padding-left: 10px;">
+                            <span style="font-size: 15px; font-weight: bold;">{{Comment.user.fName}}</span>
+                            <br>
+                            {{Comment.user.job}}
+                            <br>
+                            <p style="font-size: 25px;margin-top: 20px; margin-left:10px;">{{Comment.content}}</p>
+
+                          </div>
+                        </div>
+
+                      </div>
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+          </div>
+
+          <div>
+            <div class="col-12" id="SharedPostAppend">
+
+            </div>
+            <div class="col-12" *ngFor="let Post of SharedPosts; let i = index">
+              <div class="card recent-sales overflow-auto">
+                <div class="d-flex m-2">
+
+                  <div class="m-1" (click)="showProfile(Post.userId)" style="cursor: pointer;">
+
+                    <img src="https://localhost:7223/images/{{Post.user?.image}}" alt="Profile" class="rounded-circle"
+                      width="70px" height="70px">
+                  </div>
+                  <div class="m-3">
+                    <h3 style="font-weight: bold;">
+                      {{Post.user?.fName}}
+                    </h3>
+                    <p style="font-size: 12px;">
+                      {{Post.user?.job}}
+
+                    </p>
+                  </div>
+
+                </div>
+
+
+                <div style="width: 50vw; margin-left: 10px;">
+                  <div class="border">
+                    <div class="d-flex  m-3">
+
+                      <div class="m-1" (click)="showProfile(Post.userId)" style="cursor: pointer;">
+                        <img src="https://localhost:7223/images/{{Post.post.user?.image}}" alt="Profile"
+                          class="rounded-circle" width="50px" height="50px">
+                      </div>
+                      <div class="m-3">
+                        <h4 style="font-weight: bold;">
+                          {{Post.post.user.fName}}
+                        </h4>
+                        <p>
+                          {{Post.post.user.job}}
+                          <br>
+                          {{Post.post.created}}
+                        </p>
+                      </div>
+
+                    </div>
+
+
+                    <div style="width: 100%; height: 70%;">
+                      <p style="font-size: 25px; padding-left: 20px;">{{Post.post.postContent}}</p>
+                      <img *ngIf="Post.post.file!=null" src="https://localhost:7223/postImages/{{Post.post.file}}"
+                        alt="Profile" width="100%" height="50%">
+                    </div>
+                  </div>
+
+
+                  <hr class="mt-3">
+                  <div class="btn-group mb-4" style="margin-left: 10px;" role="group"
+                    aria-label="Basic outlined example">
+                    <a type="button" id="likepost{{Post.post.id}}" class="btn btn-outline-primary btn-md"
+                      (click)="AddLike(Post.post.id)">
+                      <i id="Likeicon" class="fa-regular fa-thumbs-up"></i>
+                      {{Post.post.like}} Like</a>
+                    <a type="button" class="btn btn-outline-primary btn-md" (click)="showSharedComment(Post)"><i
+                        class="fa-solid fa-comment"></i> Comment</a>
+                    <a type="button" class="btn btn-outline-primary btn-md" (click)="SharedPost(Post.post)"><i
+                        class="fa-sharp fa-share"></i> Share</a>
+                  </div>
+                </div>
+                <div id="CreateCommentSignalR">
+
+                </div>
+                <div [id]="Post.id" *ngIf="Post.showComment">
+
+
+                  <div class="d-flex m-2">
+
+                    <div class="mt-3">
+                      <img [src]="'https://localhost:7223/images/' + (CurrentUser.image)" alt="Profile"
+                        class="rounded-circle" width="60px" height="60px">
+                    </div>
+
+                    <div class="m-3">
+                      <form [formGroup]="CreateComment" (ngSubmit)="CreatesharedCommentFunc(Post.id)">
+
+                        <input class="m-1" [id]="Post.post.id" type="text" formControlName="commentContent"
+                          [(ngModel)]="Comment.commentContent" class="rounded-4 "
+                          style="width:35vw;height:6vh; padding-left:15px;font-size: 15px;" placeholder="Add A Comment"
+                          name="query" />
+                        <button type="submit" class="btn btn-primary mb-2" style="margin-left: 10px; ">Add
+                          Comment</button>
+                      </form>
+                    </div>
+                  </div>
+
+                  <div id="CreateCommentSharedSignalR" *ngIf="Post.id==PostID">
+
+                  </div>
+                  <div *ngFor="let Comment of ShareComment" class="m-3">
+
+                    <div *ngIf="Comment.sharedPostid == Post.id">
+
+                      <div class="d-flex">
+
+                        <div class="m-2">
+
+                          <img [src]="'https://localhost:7223/images/' + (Comment.user.image)" alt="Profile"
+                            class="rounded-circle" width="50px" height="50px">
+                        </div>
+
+                        <div class="m-3 lh-2"
+                          style="padding-top: 10px; background-color: lightgrey; border-radius: 5px 20px 20px 15px; width: 50vw; padding-left: 10px;">
+                          <span style="font-size: 15px; font-weight: bold;">{{Comment.user.fName}}</span>
+                          <br>
+                          {{Comment.user.job}}
+                          <br>
+                          <p style="font-size: 25px;margin-top: 20px; margin-left:10px;">{{Comment.content}}</p>
+
+                        </div>
+                      </div>
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+      </div><!-- End Left side columns -->
+
+      <!-- Right side columns -->
+      <div class="col-lg-4">
+
+        <!-- Recent Activity -->
+        <div class="card">
+
+
+
+          <div class="card-header d-flex" style=" font-size: 30; margin: 10px; font-weight: bold;">
+            <i class="fa-solid fa-user-group" style="font-size: 20px; margin-right: 5px;"></i>
+            <h5>
+              My Friends
+            </h5>
+          </div>
+
+          <ul class="list-group list-group-flush" id="appendFriend">
+
+            <li *ngFor="let Friend of Friends" class="list-group-item d-flex justify-content-between"
+              (click)="showProfile(Friend?.id)" style="cursor: pointer;">
+              <div>
+                <img [src]="'https://localhost:7223/images/' + (Friend.image)" alt="Profile" class="rounded-circle"
+                  width="50px" height="50px">
+                {{Friend.fName}}
+              </div>
+              <div class="ml-auto">
+                <button (click)="Showchat()" type="button" class="btn btn-primary" style="height:5vh;"><i
+                    class="fa-sharp fa-comment-dots"></i> </button>
+              </div>
+            </li>
+
+
+          </ul>
+
+
+        </div>
+
+
+
+      </div>
+
+    </div>
+
+  </section>
+
+</main><!-- End #main -->
+
+
+<script>
+
+  document.addEventListener("DOMContentLoaded", () => {
+    echarts.init(document.querySelector("#trafficChart")).setOption({
+      tooltip: {
+        trigger: 'item'
+      },
+      legend: {
+        top: '5%',
+        left: 'center'
+      },
+      series: [{
+        name: 'Access From',
+        type: 'pie',
+        radius: ['40%', '70%'],
+        avoidLabelOverlap: false,
+        label: {
+          show: false,
+          position: 'center'
+        },
+        emphasis: {
+          label: {
+            show: true,
+            fontSize: '18',
+            fontWeight: 'bold'
+          }
+        },
+        labelLine: {
+          show: false
+        },
+        data: [{
+          value: 1048,
+          name: 'Search Engine'
+        },
+        {
+          value: 735,
+          name: 'Direct'
+        },
+        {
+          value: 580,
+          name: 'Email'
+        },
+        {
+          value: 484,
+          name: 'Union Ads'
+        },
+        {
+          value: 300,
+          name: 'Video Ads'
+        }
+        ]
+      }]
+    });
+  });
+
+
+
+
+
+</script>

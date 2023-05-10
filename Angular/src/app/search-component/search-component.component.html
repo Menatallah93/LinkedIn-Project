@@ -1,0 +1,31 @@
+<div class="container mt-5">
+
+    <div class="row d-flex justify-content-center ">
+
+      <div class="col-md-6">
+
+          <div class="card" >
+            
+            <div class="input-box d-flex">
+                <input type="text"  class="form-control" (keyup)="onSearchChange($event)" name="query" placeholder="Search"  title="Enter search keyword">
+                <i class="fa fa-search m-3" style="margin-right: 130px;" ></i> 
+           
+                               
+            </div>
+
+
+            <div style="height: 10vh;" *ngFor="let search of user" class="list border-bottom d-flex p-4">
+              <img [src]="'https://localhost:7223/images/' + (search.image)" alt="Profile" class="rounded-circle" width="45px"
+              height="45px">
+              <!-- <i class="fa fa-fire"></i> -->
+              <div class=" m-2">
+                <h5  (click)="showProfile(search)">{{search.fullName}}</h5> 
+              </div>                   
+            </div>
+          </div>
+        
+      </div>
+      
+    </div>
+    
+  </div>

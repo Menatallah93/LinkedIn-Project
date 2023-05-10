@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Pages / Register - NiceAdmin Bootstrap Template</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.gstatic.com" rel="preconnect">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+  <main>
+    <div class="w-100">
+
+      <section class="section register min-vh-100  d-flex flex-column align-items-center justify-content-center py-4">
+        <div>
+          <div class="row justify-content-center ">
+            <div class="col-lg-4 col-md-6 d-flex flex-column align-items-center justify-content-center">
+
+              <div class="d-flex justify-content-center py-4">
+                <a href="index.html" class="logo d-flex align-items-center w-auto">
+                  <img src="assets/img/logo.png" alt="">
+                  <span class="d-none d-lg-block">NiceAdmin</span>
+                </a>
+              </div><!-- End Logo -->
+
+              <div class="card mb-3">
+
+                <div class="card-body">
+
+                  <div class="pt-4 pb-2">
+                    <h5 class="card-title text-center pb-0 fs-4">Create an Account</h5>
+                    <p class="text-center small">Enter your personal details to create account</p>
+                  </div>
+
+                <form [formGroup]="RegisterationForm" (ngSubmit)="submitData(RegisterationForm)" class="row g-3">
+                  
+                  <div class="row g-3">
+                    <div class="col-12">
+                      <label for="UserName" class="form-label">UserName</label>
+                      <input  [class.is-invalid]="UserName?.invalid &&UserName?.touched" type="text" name="UserName" formControlName="userName" class="form-control" id="UserName">
+                      <div  *ngIf="UserName?.errors&&UserName?.touched">
+                        <small *ngIf="UserName?.errors?.['required']">UserName is required</small>
+                        <small *ngIf="UserName?.errors?.['pattern']">UserName must be only Characters</small>
+                        <small *ngIf="UserName?.errors?.['minlength']"> your name must contain mor than 3 Characters</small>                      
+                      </div>
+                  </div>
+                </div>
+                   
+                    <div class="col-md-12 d-flex  justify-content-between">
+                      <div class="col-md-6">
+                        <label for="FirstName" class="form-label">FirstName</label>
+                        <input [class.is-invalid]="FirstName?.invalid &&FirstName?.touched" type="text" name="FirstName" formControlName="fName" class="form-control" id="FirstName" >
+                        <div  *ngIf="FirstName?.errors&&FirstName?.touched">
+                          <small *ngIf="FirstName?.errors?.['required']">FirstName is required</small>
+                          <small *ngIf="FirstName?.errors?.['pattern']">FirstName must be only Characters</small>
+                          <small *ngIf="FirstName?.errors?.['minlength']">your name must contain mor than 3 Characters</small>
+                        </div>
+                    </div>
+                    <div class="col-md-5">
+                      <label for="LastName" class="form-label">LastName</label>
+                      <input [class.is-invalid]="LastName?.invalid &&LastName?.touched" type="text" name="LastName" class="form-control" formControlName="lName" id="LastName">
+                      <div  *ngIf="LastName?.errors&&LastName?.touched">
+                        <small *ngIf="LastName?.errors?.['required']">LastName is required</small>
+                        <small *ngIf="LastName?.errors?.['pattern']">LastName must be only Characters</small>
+                        <small *ngIf="LastName?.errors?.['minlength']">your name must contain mor than 3 Characters</small>
+                      </div>
+                      </div>
+                    </div>
+
+                    <div class="col-12">
+                      <label for="yourEmail" class="form-label">Your Email</label>
+                      <input [class.is-invalid]="yourEmail?.invalid &&yourEmail?.touched"  type="email" name="yourEmail" formControlName="email" class="form-control" id="yourEmail">
+                      <div  *ngIf="yourEmail?.errors&&yourEmail?.touched">
+                        <small *ngIf="yourEmail?.errors?.['required']">yourEmail is required</small>
+                        <small *ngIf="yourEmail?.errors?.['pattern']">yourEmail must in this form 'abcde@abc.com'</small> 
+                      </div>
+                    </div>
+
+                    <div class="col-12">
+                      <label for="yourPassword" class="form-label">Password</label>
+                      <input [class.is-invalid]="yourPassword?.invalid &&yourPassword?.touched" type="password" name="password" formControlName="password" class="form-control" id="yourPassword">
+                      <div  *ngIf="yourPassword?.errors&&yourPassword?.touched">
+                        <small *ngIf="yourPassword?.errors?.['required']">yourPassword is required</small>
+                        <small *ngIf="yourPassword?.errors?.['pattern']">yourPassword must be only Characters</small>
+                        <small *ngIf="yourPassword?.errors?.['minlength']"> your name must contain mor than 6 Characters</small>                      
+
+                      </div>
+                    </div>
+
+                    <div class="col-12">
+                      <label for="ConfirmPassword" class="form-label">ConfirmPassword</label>
+                      <input [class.is-invalid]="ConfirmPassword?.invalid &&ConfirmPassword?.touched" type="password" formControlName="confirmPassword" name="password" class="form-control" id="ConfirmPassword">
+                      <div *ngIf="ConfirmPassword?.errors&&ConfirmPassword?.touched">
+                        <small *ngIf="ConfirmPassword?.errors?.['required']">Confirm Password is required</small>
+                        <small *ngIf="ConfirmPassword?.errors?.['minlength']"> your name must contain mor than 6 Characters</small>                      
+
+                      </div>
+                      <small *ngIf="RegisterationForm?.errors?.['mismatch']">Password and confirm password not match</small>
+                    </div>
+
+                    <div class="col-12">
+                      <label for="Address" class="form-label">Address</label><br>
+                      <input [class.is-invalid]="Address?.invalid &&Address?.touched" class="form-control" type="text" formControlName="address" id="Address">
+                      <div  *ngIf="Address?.errors&&Address?.touched">
+                        <small *ngIf="Address?.errors?.['required']">Address is required</small>
+                        <small *ngIf="Address?.errors?.['pattern']">Address must be only Characters</small>
+                      </div>
+                    </div>
+
+                    <div class="col-12">
+                      <label for="Image" class="form-label">Image</label><br>
+                      <input class="form-control" formControlName="image" type="file" (change)="onSelectFile($event)" id="formFile">
+                    </div>
+                   
+                    <!-- <div class="col-12">
+                      <div class="form-check">
+                        <input class="form-check-input" formControlName="termCheck" name="terms" type="checkbox" value="" id="acceptTerms">
+                        <label [class.is-invalid]="termCheck?.invalid &&termCheck?.touched"  class="form-check-label" for="acceptTerms">I agree and accept the <a href="#">terms and conditions</a></label>
+                        <div  *ngIf="termCheck?.errors&&termCheck?.touched">
+                          <small *ngIf="termCheck?.errors?.['required']">Address is required</small>
+                        </div>
+                      </div> -->
+
+                    <!-- //</div> -->
+
+                    <div class="col-12">
+                      <button class="btn btn-primary w-100" [disabled]="RegisterationForm.invalid"  type="submit">Register</button>
+
+                    </div>
+                  </form>
+
+                    <div class="col-12">
+                      <p class="small mb-0">Already have an account? <a routerLink="/login">Log in</a></p>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </main><!-- End #main -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+
+</body>
+
+</html>

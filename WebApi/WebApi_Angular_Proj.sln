@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi_Angular_Proj", "WebApi_Angular_Proj.csproj", "{789BBAE2-6DAF-459B-919C-49104252006A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{789BBAE2-6DAF-459B-919C-49104252006A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789BBAE2-6DAF-459B-919C-49104252006A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789BBAE2-6DAF-459B-919C-49104252006A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789BBAE2-6DAF-459B-919C-49104252006A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82787AAE-2479-4A5E-9DD9-6A310910BDCB}
+	EndGlobalSection
+EndGlobal

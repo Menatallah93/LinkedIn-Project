@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+<body>
+    <div id="container" style="height: 100%;">
+        <aside>
+            <header>
+                <input type="text" placeholder="search">
+            </header>
+            <ul>
+                <li *ngFor="let user of Frindes">
+                    <img [src]="'https://localhost:7223/images/' + (user.image)" alt="Profile" class="rounded-circle" width="50px"
+                    height="50px">
+                    <div (click)="GetChat(user?.id)">
+
+                        <h2>{{user.fName}}</h2>
+                        <h3>
+                            <span class="status orange"></span>
+                            offline
+                        </h3>
+                    </div>
+                </li>
+
+            </ul>
+        </aside>
+        <main>
+            <header>
+                <div>
+                <!-- <img [src]="'https://localhost:7223/images/' + (ChatUser.image)"
+                alt="Profile" class="rounded-circle" width="50px"
+                height="50px">    -->
+                             
+                    <h2></h2>
+                    <h3>already 1902 messages</h3>
+                </div>
+                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1940306/ico_star.png" alt="">
+            </header>
+            <ul id="chat">
+                <div *ngFor="let msg of Messages">
+
+                    <li *ngIf="msg.fromId == CurrentUserId" class="me delchat" >
+                        <div class="entete">
+                            <span class="status green"></span>
+                            <h2>{{msg.fromUser.fName}}</h2>
+                            <h3>{{msg.messageTime}}</h3>
+                        </div>
+                        <div class="triangle"></div>
+                        <div class="message">
+                            {{msg.textMessage}}
+                        </div>
+                    </li>
+
+
+                    <li *ngIf="msg.fromId !== CurrentUserId" class="you" id="delchat">
+                        <div class="entete">
+                            <h2>{{msg.fromUser.fName}}</h2>
+                            <h3>{{msg.messageTime}}</h3>
+                            <span class="status blue"></span>
+                        </div>
+                        <div class="triangle"></div>
+                        <div class="message">
+                            {{msg.textMessage}}
+                        </div>
+                    </li>
+
+                </div>
+
+              
+            </ul>
+            <footer>
+
+                <textarea placeholder="Type your message" name="textMessage"
+                    [(ngModel)]="CreateMessage.textMessage"></textarea>
+                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1940306/ico_picture.png" alt="">
+                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1940306/ico_file.png" alt="">
+                <button (click)="SendMessage()">Send</button>
+            </footer>
+        </main>
+    </div>
+</body>
+
+
+</html>

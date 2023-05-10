@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Users / Profile - NiceAdmin Bootstrap Template</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.gstatic.com" rel="preconnect">
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+
+  <!-- ======= Sidebar ======= -->
+  <app-header></app-header>
+
+  <main id="main" class="main">
+
+    <div class="pagetitle">
+      <h1>Profile</h1>
+      <nav>
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+          <li class="breadcrumb-item">Users</li>
+          <li class="breadcrumb-item active">Profile</li>
+        </ol>
+      </nav>
+    </div><!-- End Page Title -->
+
+    <section class="section profile">
+      <div class="row">
+        <div class="col-xl-4">
+
+          <div class="card">
+            <div class="card-body profile-card pt-4 d-flex flex-column align-items-center">
+
+              <img [src]="'https://localhost:7223/images/' + (user.image)" alt="Profile" class="rounded-2" width="150" height="150">
+                        
+                  <h2>{{user.fullName}}</h2>
+              <h3>{{user.job}}</h3>
+              <div class="social-links mt-2">
+                <a [href]="user.twitterLink" class="twitter"><i class="bi bi-twitter"></i></a>
+                <a [href]="user.facebookLink" class="facebook"><i class="bi bi-facebook"></i></a>
+                <a [href]="user.instagramLink" class="instagram"><i class="bi bi-instagram"></i></a>
+                <a [href]="user.linkedinLink" class="linkedin"><i class="bi bi-linkedin"></i></a>
+              </div>
+
+              <!-- <input type="hidden" name="ToId" formControlName="toId" [(ngModel)]="SendRequest.toId"
+                  value=""> -->
+              <div class="d-flex mt-2">
+                <button (click)="SendConnect()" class="btn btn-outline-primary"
+                    *ngIf="(!IsFrind&&!IsPendding)||IsRejected;" style="margin-right: 5px;" value="Connect">SendConnect</button>
+
+                <button (click)="Cancel()" *ngIf="IsPendding" class="btn btn-outline-primary" style="margin-right: 5px;"
+                  value="">CancleRequest</button>
+
+
+                <!-- <button (click)="CancelRequest()" class="btn btn-outline-primary" style="margin-right: 5px;"  value="">CancleRequest</button> -->
+                <label for="" *ngIf="IsFrind">Friend</label>
+
+              </div>
+
+
+
+            </div>
+          </div>
+
+        </div>
+
+        <div class="col-xl-8">
+
+          <div class="card">
+            <div class="card-body pt-3">
+              <!-- Bordered Tabs -->
+              <ul class="nav nav-tabs nav-tabs-bordered">
+
+                <li class="nav-item">
+                  <button class="nav-link active" data-bs-toggle="tab"
+                    data-bs-target="#profile-overview">Overview</button>
+                </li>
+
+                <li class="nav-item">
+                  <button class="nav-link" data-bs-toggle="tab" data-bs-target="#profile-settings">Post</button>
+                </li>
+
+
+
+              </ul>
+              <div class="tab-content pt-2">
+
+                <div class="tab-pane fade show active profile-overview" id="profile-overview">
+                  <h5 class="card-title">About</h5>
+                  <p class="small fst-italic">{{user.about}}</p>
+
+                  <h5 class="card-title">Profile Details</h5>
+
+                  <div class="row">
+                    <div class="col-lg-3 col-md-4 label ">Full Name</div>
+
+                    <div class="col-lg-9 col-md-8">{{user.fullName}}</div>
+                  </div>
+
+                  <div class="row">
+                    <div class="col-lg-3 col-md-4 label">Company</div>
+                    <div class="col-lg-9 col-md-8">{{user.company}}</div>
+                  </div>
+
+                  <div class="row">
+                    <div class="col-lg-3 col-md-4 label">Job</div>
+                    <div class="col-lg-9 col-md-8">{{user.job}}</div>
+                  </div>
+
+                  <div class="row">
+                    <div class="col-lg-3 col-md-4 label">Country</div>
+                    <div class="col-lg-9 col-md-8">{{user.cuntry}}</div>
+                  </div>
+
+                  <div class="row">
+                    <div class="col-lg-3 col-md-4 label">Address</div>
+                    <div class="col-lg-9 col-md-8">{{user.address}}</div>
+                  </div>
+
+                  <div class="row">
+                    <div class="col-lg-3 col-md-4 label">Phone</div>
+                    <div class="col-lg-9 col-md-8">{{user.phone}}</div>
+                  </div>
+
+
+
+                </div>
+
+
+                <div class="tab-pane fade pt-3" id="profile-settings">
+
+                  <!-- Settings Form -->
+                  <div *ngFor="let Post of MyPostss; let i = index" class="card-body">
+
+                    <div class="d-flex m-3">
+
+                      <div class="m-1">
+
+                        <img src="assets/img/profile-img.jpg" alt="Profile" class="rounded-circle" width="70px"
+                          height="70px">
+                      </div>
+                      <div class="m-3">
+                        <h4 style="font-weight: bold;">
+                          {{Post.user.fName}}
+                        </h4>
+                        <p>
+                          {{Post.user.image}}
+                        </p>
+                      </div>
+
+                    </div>
+
+                    <div style="width: 100%; height: 70%;">
+                      <p>{{Post.postContent}}</p>
+                      <img src="assets/img/profile-img.jpg" alt="Profile" width="100%" height="50%">
+                    </div>
+                    <hr class="mt-3">
+                    <div class="btn-group" role="group" aria-label="Basic outlined example">
+                      <a type="button" class="btn btn-outline-primary btn-md">
+                        <i class="fa-regular fa-thumbs-up"></i>
+                        {{Post.like}} Like</a>
+                      <a type="button" class="btn btn-outline-primary btn-md"><i class="fa-solid fa-comment"></i>
+                        Comment</a>
+                      <a type="button" class="btn btn-outline-primary btn-md"><i class="fa-sharp fa-share"></i>
+                        Share</a>
+                    </div>
+
+
+
+
+
+
+
+                  </div><!-- End Post Form -->
+
+                </div>
+
+
+              </div><!-- End Bordered Tabs -->
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+  </main><!-- End #main -->
+
+
+</body>
+
+</html>

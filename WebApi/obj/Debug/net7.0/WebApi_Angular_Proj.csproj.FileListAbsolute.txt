@@ -1,0 +1,645 @@
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\appsettings.Development.json
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\appsettings.json
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\WebApi_Angular_Proj.exe
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\WebApi_Angular_Proj.deps.json
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\WebApi_Angular_Proj.runtimeconfig.json
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\WebApi_Angular_Proj.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\WebApi_Angular_Proj.pdb
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Azure.Core.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Azure.Identity.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Humanizer.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\System.CodeDom.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\System.Memory.Data.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.AssemblyReference.cache
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfoInputs.cache
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfo.cs
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CoreCompileInputs.cache
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cs
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cache
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\staticwebassets\msbuild.WebApi_Angular_Proj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi_Angular_Proj.props
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi_Angular_Proj.props
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi_Angular_Proj.props
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\staticwebassets.pack.json
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\staticwebassets.build.json
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\staticwebassets.development.json
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\scopedcss\bundle\WebApi_Angular_Proj.styles.css
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CopyComplete
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\refint\WebApi_Angular_Proj.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.pdb
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.genruntimeconfig.cache
+C:\WebApi&Angular\WebApi_Angular_Proj\obj\Debug\net7.0\ref\WebApi_Angular_Proj.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\System.Web.Cors.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\System.Web.Http.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\WebApi&Angular\WebApi_Angular_Proj\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.AssemblyReference.cache
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfoInputs.cache
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfo.cs
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CoreCompileInputs.cache
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\refint\WebApi_Angular_Proj.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.pdb
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\appsettings.Development.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\appsettings.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\WebApi_Angular_Proj.exe
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\WebApi_Angular_Proj.deps.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\WebApi_Angular_Proj.runtimeconfig.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\WebApi_Angular_Proj.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\WebApi_Angular_Proj.pdb
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Azure.Core.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Azure.Identity.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Humanizer.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\System.Web.Cors.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\System.Web.Http.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\System.Web.Http.Cors.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\System.CodeDom.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\staticwebassets\msbuild.WebApi_Angular_Proj.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi_Angular_Proj.props
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi_Angular_Proj.props
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi_Angular_Proj.props
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\scopedcss\bundle\WebApi_Angular_Proj.styles.css
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CopyComplete
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.genruntimeconfig.cache
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\obj\Debug\net7.0\ref\WebApi_Angular_Proj.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\appsettings.json
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\WebApi_Angular_Proj.exe
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\WebApi_Angular_Proj.deps.json
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\WebApi_Angular_Proj.runtimeconfig.json
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\WebApi_Angular_Proj.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\WebApi_Angular_Proj.pdb
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.AssemblyReference.cache
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfoInputs.cache
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfo.cs
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CoreCompileInputs.cache
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\staticwebassets\msbuild.WebApi_Angular_Proj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi_Angular_Proj.props
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi_Angular_Proj.props
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi_Angular_Proj.props
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\scopedcss\bundle\WebApi_Angular_Proj.styles.css
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CopyComplete
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.dll
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\refint\WebApi_Angular_Proj.dll
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.pdb
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\WebApi_Angular_Proj.genruntimeconfig.cache
+C:\Users\20106\Desktop\Web-Api\obj\Debug\net7.0\ref\WebApi_Angular_Proj.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\20106\Desktop\Web-Api\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\appsettings.Development.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\appsettings.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\WebApi_Angular_Proj.exe
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\WebApi_Angular_Proj.deps.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\WebApi_Angular_Proj.runtimeconfig.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\WebApi_Angular_Proj.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\WebApi_Angular_Proj.pdb
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Azure.Core.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Azure.Identity.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Humanizer.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.Web.Cors.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.Web.Http.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.Web.Http.Cors.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.CodeDom.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.AssemblyReference.cache
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfoInputs.cache
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfo.cs
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CoreCompileInputs.cache
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\staticwebassets\msbuild.WebApi_Angular_Proj.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi_Angular_Proj.props
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi_Angular_Proj.props
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi_Angular_Proj.props
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\staticwebassets.build.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\staticwebassets.development.json
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\scopedcss\bundle\WebApi_Angular_Proj.styles.css
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CopyComplete
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\refint\WebApi_Angular_Proj.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.pdb
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\WebApi_Angular_Proj.genruntimeconfig.cache
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\obj\Debug\net7.0\ref\WebApi_Angular_Proj.dll
+E:\ITI\ITI 9 month courses\Angular\Angular Project\Web-Api\WebApi_Proj\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\appsettings.json
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.exe
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.deps.json
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.runtimeconfig.json
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.pdb
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Humanizer.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Web.Cors.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Web.Http.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Web.Http.Cors.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.AssemblyReference.cache
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfoInputs.cache
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfo.cs
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CoreCompileInputs.cache
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi_Angular_Proj.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi_Angular_Proj.props
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi_Angular_Proj.props
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi_Angular_Proj.props
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi_Angular_Proj.styles.css
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CopyComplete
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\refint\WebApi_Angular_Proj.dll
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.pdb
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.genruntimeconfig.cache
+D:\ITI 9 Months\Angular_WebApi\WebApi\obj\Debug\net7.0\ref\WebApi_Angular_Proj.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.exe
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.deps.json
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.runtimeconfig.json
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.pdb
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.AssemblyReference.cache
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfoInputs.cache
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfo.cs
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CoreCompileInputs.cache
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi_Angular_Proj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi_Angular_Proj.props
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi_Angular_Proj.props
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi_Angular_Proj.props
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi_Angular_Proj.styles.css
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CopyComplete
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\refint\WebApi_Angular_Proj.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.pdb
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.genruntimeconfig.cache
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\obj\Debug\net7.0\ref\WebApi_Angular_Proj.dll
+C:\Users\20106\Desktop\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.staticwebassets.runtime.json
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.AssemblyReference.cache
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfoInputs.cache
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.AssemblyInfo.cs
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CoreCompileInputs.cache
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\refint\WebApi_Angular_Proj.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.pdb
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\appsettings.Development.json
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\appsettings.json
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.staticwebassets.runtime.json
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.exe
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.deps.json
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.runtimeconfig.json
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\WebApi_Angular_Proj.pdb
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Azure.Core.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Humanizer.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Web.Cors.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Web.Http.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Web.Http.Cors.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi_Angular_Proj.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi_Angular_Proj.props
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi_Angular_Proj.props
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi_Angular_Proj.props
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi_Angular_Proj.styles.css
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.csproj.CopyComplete
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\WebApi_Angular_Proj.genruntimeconfig.cache
+E:\ITI\ITI 9 month courses\Angular\Angular_WebApi\WebApi\obj\Debug\net7.0\ref\WebApi_Angular_Proj.dll
